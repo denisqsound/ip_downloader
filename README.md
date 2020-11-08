@@ -1,4 +1,4 @@
-# IPFeeds mock
+# IP Downloader Mock
 
 Краткое описание :
 
